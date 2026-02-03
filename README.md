@@ -43,7 +43,7 @@ ver1.0.0<br>
 
 ## 実行イメージ<br>
 ver1.0.0<br>
-!["modemegame1"](ver1.0.0/modeme ver1.0.0.gif)<br>
+!["modemegame1"](ver1.0.0/modeme ver1.gif)<br>
 　　　> [▲ トップへ戻る](#top)
  
 ## 工夫した点<br>
