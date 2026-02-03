@@ -1,4 +1,3 @@
-<img width="336" height="79" alt="image" src="https://github.com/user-attachments/assets/e35eb15e-0440-46d8-b6e4-a410610794db" /><a id="top"></a>
 # メタ認知トレーニングゲーム (Webアプリ)
 
 ※ver2制作中<br>
