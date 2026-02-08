@@ -53,9 +53,13 @@ ver2<br>
 ver1<br>
 !["modemegame1"](ver1/modeme-ver1.gif)<br>
 ver2<br>
-!["modemegame2add"](ver2/images/edd.gif)<br>
+・追加＆一覧表示<br>
+!["modemegame2add"](ver2/images/add.gif)<br>
+・Ｓランク<br>
 !["modemegame2ranks"](ver2/images/rankS.gif)<br>
+・Ａランク<br>
 !["modemegame2ranka"](ver2/images/rankA.gif)<br>
+・Ｂランク<br>
 !["modemegame2rankb"](ver2/images/rankB.gif)<br>
 ※イメージ用で制限時間6秒、Ｓランク５問以上正解、Ａランク４問以上正解、Ｂランク４問未満正解にしてます。<br>
 　実際は、この10倍です。（制限時間60秒、Ｓランク50問以上正解、Ａランク40問以上正解、Ｂランク40問未満正解）<br>
