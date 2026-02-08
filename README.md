@@ -1,6 +1,6 @@
 # メタ認知トレーニングゲーム (Webアプリ)
 
-※ver2制作中<br>
+※ver3制作中<br>
 
 SSのアウトプット学習として作成した、<br>
 Web上で動くメタ認知トレーニングゲームです。<br>
@@ -46,11 +46,20 @@ ver2<br>
 　Math.randomによる乱数生成<br>
 　画面表示制御<br>
 　データベース接続・SQL文作成・実行<br>
+　終了時間到達による画面遷移<br>
 　　　> [▲ トップへ戻る](#top)
 
 ## 実行イメージ<br>
 ver1<br>
 !["modemegame1"](ver1/modeme-ver1.gif)<br>
+ver2<br>
+!["modemegame2add"](ver2/images/edd.gif)<br>
+!["modemegame2ranks"](ver2/images/rankS.gif)<br>
+!["modemegame2ranka"](ver2/images/rankA.gif)<br>
+!["modemegame2rankb"](ver2/images/rankB.gif)<br>
+※イメージ用で制限時間6秒、Ｓランク５問以上正解、Ａランク４問以上正解、Ｂランク４問未満正解にしてます。<br>
+　実際は、この10倍です。（制限時間60秒、Ｓランク50問以上正解、Ａランク40問以上正解、Ｂランク40問未満正解）<br>
+
 　　　> [▲ トップへ戻る](#top)
  
 ## 工夫した点<br>
