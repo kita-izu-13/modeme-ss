@@ -57,9 +57,9 @@ ver3<br>
 　　　> [▲ トップへ戻る](#top)
 
 ## 実行イメージ<br>
-ver1<br>
+● ver1<br>
 !["modemegame1"](ver1/modeme-ver1.gif)<br>
-ver2<br>
+● ver2<br>
 ・追加＆一覧表示<br>
 !["modemegame2add"](ver2/images/add.gif)<br>
 ・Ｓランク<br>
@@ -70,7 +70,7 @@ ver2<br>
 !["modemegame2rankb"](ver2/images/rankB.gif)<br>
 ※イメージ用で制限時間6秒、Ｓランク５問以上正解、Ａランク４問以上正解、Ｂランク４問未満正解にしてます。<br>
 　実際は、この10倍です。（制限時間60秒、Ｓランク50問以上正解、Ａランク40問以上正解、Ｂランク40問未満正解）<br>
-ver2<br>
+● ver3<br>
 ・不正解時、背景変更<br>
 !["modemegame3check"](ver3/images/check.gif)<br>
 ・変更＆一覧表示<br>
