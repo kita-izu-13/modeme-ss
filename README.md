@@ -72,7 +72,9 @@ ver2<br>
 　実際は、この10倍です。（制限時間60秒、Ｓランク50問以上正解、Ａランク40問以上正解、Ｂランク40問未満正解）<br>
 ver2<br>
 ・不正解時、背景変更<br>
-!["modemegame2add"](ver2/images/add.gif)<br>
+!["modemegame3check"](ver3/images/check.gif)<br>
+・変更＆一覧表示<br>
+!["modemegame3update"](ver3/images/update.gif)<br>
 
 　　　> [▲ トップへ戻る](#top)
  
