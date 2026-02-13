@@ -69,12 +69,15 @@ ver3<br>
 ・Ｂランク<br>
 !["modemegame2rankb"](ver2/images/rankB.gif)<br>
 ※イメージ用で制限時間6秒、Ｓランク５問以上正解、Ａランク４問以上正解、Ｂランク４問未満正解にしてます。<br>
-　実際は、この10倍です。（制限時間60秒、Ｓランク50問以上正解、Ａランク40問以上正解、Ｂランク40問未満正解）<br>
+　実際は、この10倍です。（制限時間60秒。Ｓランク50問以上正解、Ａランク40問以上正解、Ｂランク40問未満正解）<br>
 ● ver3<br>
 ・不正解時、背景変更<br>
 !["modemegame3check"](ver3/images/check.gif)<br>
 ・変更＆一覧表示<br>
 !["modemegame3update"](ver3/images/update.gif)<br>
+・Ｓランク（時短モード）<br>
+!["modemegame3ranks"](ver3/images/ranks-short.gif)<br>
+※制限時間20秒。Ｓランク15問以上正解、Ａランク12問以上正解、Ｂランク12問未満正解<br
 
 　　　> [▲ トップへ戻る](#top)
  
@@ -129,6 +132,7 @@ ver3<br>
 ・2026年2月8日　「不正解！」の場合、背景色を変更<br>
 ・2026年2月10日　JSP追加（ラジオボタン）。LogicとDAOにupdateメソッド追加、idによりテーブルから取得。<br>
 ・2026年2月11日　JSPフォーム追加（選択した内容）。LogicとDAOにupdateformメソッド追加、idによりテーブル内容変更。<br>
+・2026年2月13日　トップ画面に集中モードと時短モードを実装（ラジオボタンで追加。Logicにrankshortメソッド追加。）<br>
 
 　　　> [▲ トップへ戻る](#top)
 
