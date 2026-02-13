@@ -77,7 +77,10 @@ ver3<br>
 !["modemegame3update"](ver3/images/update.gif)<br>
 ・Ｓランク（時短モード）<br>
 !["modemegame3ranks"](ver3/images/ranks-short.gif)<br>
-※制限時間20秒。Ｓランク15問以上正解、Ａランク12問以上正解、Ｂランク12問未満正解<br
+※制限時間20秒。Ｓランク15問以上正解、Ａランク12問以上正解、Ｂランク12問未満正解<br>
+・Ｓランク（瞬発力トレーニング）<br>
+!["modemegame3ranksex"](ver3/images/rankS-ex.gif)<br>
+※1問の制限時間2秒。Ｓランク5問以上正解、Ａランク3問以上正解、Ｂランク3問未満正解<br>
 
 　　　> [▲ トップへ戻る](#top)
  
