@@ -163,6 +163,7 @@ ver3<br>
 ・じゃんけんゲーム：[janken-ss](https://github.com/kita-izu-13/janken-ss)<br>
 ・掲示板アプリ：[bbs-ss](https://github.com/kita-izu-13/bbs-ss)<br>
 ・メモアプリ：[memo-ss](https://github.com/kita-izu-13/memo-ss)<br>
+・メタ認知トレーニングゲーム：[memo-ss](https://github.com/kita-izu-13/mode-ss)<br>
 
 　【 Androidアプリで実行 】<br>
 ・じゃんけんゲーム：[janken-android](https://github.com/kita-izu-13/janken-android)<br>
